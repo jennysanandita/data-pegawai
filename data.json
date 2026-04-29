@@ -528,17 +528,5 @@
     ],
     "rekMan": "Manajemen Waktu",
     "rekTek": "Teknis SOP"
-  },
-  {
-    "nama": "ABBIYU",
-    "skpd": "UPT PJJ Surabaya",
-    "diklat": [
-      "qqq"
-    ],
-    "gap": 12,
-    "teknis": "12",
-    "rekMan": "qqq",
-    "rekTek": "qqq",
-    "cls": "standar"
   }
 ]
