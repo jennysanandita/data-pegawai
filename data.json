@@ -73,27 +73,6 @@
     "rekTek": "Advanced Technical Skills"
   },
   {
-    "nama": "Ir. ANISSA DIAN PRATIWI, S.T.",
-    "skpd": "UPT PJJ Surabaya",
-    "gap": 0.35,
-    "teknis": 75,
-    "cls": "baik",
-    "diklat": [
-      "Diklat Teknis Jalan Jembatan (23 JP) - 2022",
-      "Diklat PBJ (30 JP) - 2023",
-      "Diklat Hukum Kontrak (24 JP) - 2023",
-      "Pelatihan Teknis PPK TIPE C - 2023",
-      "Diklat PBJ (21 JP) - 2024",
-      "Diklat Pengelolaan Keuangan (15 JP) - 2024",
-      "Diklat Teknis Jalan Jembatan (22 JP) - 2024",
-      "Diklat PBJ (24 JP) - 2024",
-      "Penyusunan Dokumen Perencanaan (24 JP) - 2024",
-      "Diklat SPBE (30 JP) - 2025"
-    ],
-    "rekMan": "Job Shadowing",
-    "rekTek": "Leadership Dasar"
-  },
-  {
     "nama": "BUDI IKHWAN",
     "skpd": "Dinas",
     "gap": 0,
@@ -163,33 +142,6 @@
     ],
     "rekMan": "Coaching intensif",
     "rekTek": "Disiplin Kerja"
-  },
-  {
-    "nama": "Ir. FAJAR ILMAN TAMA, S.T.",
-    "skpd": "Dinas",
-    "gap": 0.47,
-    "teknis": 68,
-    "cls": "baik",
-    "diklat": [
-      "Diklat PBJ (30 JP) - 2019",
-      "Diklat Jalan Jembatan (21 JP) - 2020",
-      "Diklat Jalan Jembatan (21 JP) - 2021",
-      "Diklat Jalan Jembatan (21 JP) - 2022",
-      "Diklat Jalan Jembatan (68 JP) - 2022",
-      "Diklat Jalan Jembatan (26 JP) - 2023",
-      "Diklat PBJ (43 JP) - 2023",
-      "Diklat Jalan Jembatan (30 JP) - 2023",
-      "Diklat PBJ (21 JP) - 2024",
-      "Diklat Manajemen Talenta (21 JP) - 2024",
-      "Pembangunan Gedung Negara (26 JP) - 2024",
-      "Diklat Jalan Jembatan (21 JP) - 2024",
-      "Diklat PBJ (21 JP) - 2024",
-      "Pengelolaan Sampah & B3 (30 JP) - 2024",
-      "Diklat Manajemen Kinerja (28 JP) - 2025",
-      "Bimtek PPRG (20 JP) - 2026"
-    ],
-    "rekMan": "Team Building",
-    "rekTek": "Quality Control"
   },
   {
     "nama": "FANNY PUSPITA RINI, S.A.",
@@ -283,6 +235,68 @@
     "rekTek": "Project Management"
   },
   {
+    "nama": "Ir. ANISSA DIAN PRATIWI, S.T.",
+    "skpd": "UPT PJJ Surabaya",
+    "gap": 0.35,
+    "teknis": 75,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Teknis Jalan Jembatan (23 JP) - 2022",
+      "Diklat PBJ (30 JP) - 2023",
+      "Diklat Hukum Kontrak (24 JP) - 2023",
+      "Pelatihan Teknis PPK TIPE C - 2023",
+      "Diklat PBJ (21 JP) - 2024",
+      "Diklat Pengelolaan Keuangan (15 JP) - 2024",
+      "Diklat Teknis Jalan Jembatan (22 JP) - 2024",
+      "Diklat PBJ (24 JP) - 2024",
+      "Penyusunan Dokumen Perencanaan (24 JP) - 2024",
+      "Diklat SPBE (30 JP) - 2025"
+    ],
+    "rekMan": "Job Shadowing",
+    "rekTek": "Leadership Dasar"
+  },
+  {
+    "nama": "Ir. FAJAR ILMAN TAMA, S.T.",
+    "skpd": "Dinas",
+    "gap": 0.47,
+    "teknis": 68,
+    "cls": "baik",
+    "diklat": [
+      "Diklat PBJ (30 JP) - 2019",
+      "Diklat Jalan Jembatan (21 JP) - 2020",
+      "Diklat Jalan Jembatan (21 JP) - 2021",
+      "Diklat Jalan Jembatan (21 JP) - 2022",
+      "Diklat Jalan Jembatan (68 JP) - 2022",
+      "Diklat Jalan Jembatan (26 JP) - 2023",
+      "Diklat PBJ (43 JP) - 2023",
+      "Diklat Jalan Jembatan (30 JP) - 2023",
+      "Diklat PBJ (21 JP) - 2024",
+      "Diklat Manajemen Talenta (21 JP) - 2024",
+      "Pembangunan Gedung Negara (26 JP) - 2024",
+      "Diklat Jalan Jembatan (21 JP) - 2024",
+      "Diklat PBJ (21 JP) - 2024",
+      "Pengelolaan Sampah & B3 (30 JP) - 2024",
+      "Diklat Manajemen Kinerja (28 JP) - 2025",
+      "Bimtek PPRG (20 JP) - 2026"
+    ],
+    "rekMan": "Team Building",
+    "rekTek": "Quality Control"
+  },
+  {
+    "nama": "Ir. NUR AINI FARIDA, S.T., M.T.",
+    "skpd": "Dinas",
+    "gap": 0.47,
+    "teknis": 73,
+    "cls": "baik",
+    "diklat": [
+      "Manajemen Pengendalian Mutu (68 JP) - 2022",
+      "Manajemen Proyek (25 JP) - 2025",
+      "Pelatihan Publikasi Ilmiah (40 JP) - 2026"
+    ],
+    "rekMan": "Team Building",
+    "rekTek": "Problem Solving"
+  },
+  {
     "nama": "JATU MAWAR WIDHIARTI PUTRI, S.A.",
     "skpd": "Dinas",
     "gap": 0.29,
@@ -295,6 +309,18 @@
     ],
     "rekMan": "Team Building",
     "rekTek": "Time Management"
+  },
+  {
+    "nama": "JENNYS ANANDITA",
+    "skpd": "Dinas",
+    "diklat": [
+      "www"
+    ],
+    "gap": 0.09,
+    "teknis": "53",
+    "rekMan": "qqq",
+    "rekTek": "eee",
+    "cls": "baik"
   },
   {
     "nama": "KUSMIATININGSIH, S.H., M.H.",
@@ -342,20 +368,6 @@
     ],
     "rekMan": "Latsar ASN",
     "rekTek": "Fundamental Training"
-  },
-  {
-    "nama": "Ir. NUR AINI FARIDA, S.T., M.T.",
-    "skpd": "Dinas",
-    "gap": 0.47,
-    "teknis": 73,
-    "cls": "baik",
-    "diklat": [
-      "Manajemen Pengendalian Mutu (68 JP) - 2022",
-      "Manajemen Proyek (25 JP) - 2025",
-      "Pelatihan Publikasi Ilmiah (40 JP) - 2026"
-    ],
-    "rekMan": "Team Building",
-    "rekTek": "Problem Solving"
   },
   {
     "nama": "POERBO SEPUTRO DONY ERIKHA, S.T.",
@@ -519,30 +531,6 @@
   },
   {
     "nama": "ZAFIRA ALMADINA, A.Md.Kb.N.",
-    "skpd": "Dinas",
-    "gap": 0.32,
-    "teknis": 67,
-    "cls": "baik",
-    "diklat": [
-      "Diklat Manajemen Kesekretariatan (20 JP) - 2024"
-    ],
-    "rekMan": "Manajemen Waktu",
-    "rekTek": "Teknis SOP"
-  },
-  {
-    "nama": "JENNYS ANANDITA",
-    "skpd": "Dinas",
-    "diklat": [
-      "www"
-    ],
-    "gap": 0.09,
-    "teknis": "53",
-    "rekMan": "qqq",
-    "rekTek": "eee",
-    "cls": "baik"
-  },
-  {
-    "nama": "ALMADINA, A.Md.Kb.N.",
     "skpd": "Dinas",
     "gap": 0.32,
     "teknis": 67,
