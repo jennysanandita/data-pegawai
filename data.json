@@ -540,5 +540,17 @@
     "rekMan": "qqq",
     "rekTek": "eee",
     "cls": "baik"
+  },
+  {
+    "nama": "ALMADINA, A.Md.Kb.N.",
+    "skpd": "Dinas",
+    "gap": 0.32,
+    "teknis": 67,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Manajemen Kesekretariatan (20 JP) - 2024"
+    ],
+    "rekMan": "Manajemen Waktu",
+    "rekTek": "Teknis SOP"
   }
 ]
