@@ -64,15 +64,19 @@
   },
   {
     "nama": "AMIRA AFRADIANTY, A.Md.Kb.N.",
+    "nip": "20000412 202202 2 001",
+    "jenisJabatan": "Jabatan Pelaksana",
+    "namaJabatan": "Pengolah Data dan Informasi",
+    "unitKerja": "SEKRETARIAT",
     "skpd": "Dinas",
-    "gap": 0.5,
-    "teknis": 83,
-    "cls": "baik",
     "diklat": [
       "Diklat Teknis Manajemen Kesekretariatan (20 JP) - 2025"
     ],
+    "gap": 0.5,
+    "teknis": "83",
     "rekMan": "Team Building",
-    "rekTek": "Sertifikasi"
+    "rekTek": "Sertifikasi",
+    "cls": "baik"
   },
   {
     "nama": "ANDY MARTONO, S.T.",
