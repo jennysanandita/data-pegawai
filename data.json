@@ -236,10 +236,7 @@
   },
   {
     "nama": "Ir. ANISSA DIAN PRATIWI, S.T.",
-    "skpd": "UPT PJJ Surabaya",
-    "gap": 0.35,
-    "teknis": 75,
-    "cls": "baik",
+    "skpd": "Dinas",
     "diklat": [
       "Diklat Teknis Jalan Jembatan (23 JP) - 2022",
       "Diklat PBJ (30 JP) - 2023",
@@ -252,8 +249,11 @@
       "Penyusunan Dokumen Perencanaan (24 JP) - 2024",
       "Diklat SPBE (30 JP) - 2025"
     ],
+    "gap": 0.35,
+    "teknis": "75",
     "rekMan": "Job Shadowing",
-    "rekTek": "Leadership Dasar"
+    "rekTek": "Leadership Dasar",
+    "cls": "baik"
   },
   {
     "nama": "Ir. FAJAR ILMAN TAMA, S.T.",
