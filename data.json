@@ -528,5 +528,17 @@
     ],
     "rekMan": "Manajemen Waktu",
     "rekTek": "Teknis SOP"
-  }
+  },
+    },
+  {
+    "nama": "Jennys.",
+    "skpd": "Dinas",
+    "gap": 0.22,
+    "teknis": 47,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Manajemen Kesekretariatan (20 JP) - 2024"
+    ],
+    "rekMan": "Manajemen Waktu",
+    "rekTek": "Teknis SOP"
 ]
