@@ -80,17 +80,21 @@
   },
   {
     "nama": "ANDY MARTONO, S.T.",
+    "nip": "19860929 201903 1 007",
+    "jenisJabatan": "Jabatan Pelaksana",
+    "namaJabatan": "Pengolah Data dan Informasi",
+    "unitKerja": "SEKRETARIAT",
     "skpd": "Dinas",
-    "gap": 0.26,
-    "teknis": 73,
-    "cls": "baik",
     "diklat": [
       "Diklat Manajemen Teknologi Informasi (60 JP) - 2024",
       "Diklat Pengadaan Barang Jasa (40 JP) - 2024",
       "Diklat SPBE (40 JP) - 2025"
     ],
+    "gap": 0.26,
+    "teknis": "73",
     "rekMan": "Literasi Digital",
-    "rekTek": "Advanced Technical Skills"
+    "rekTek": "Advanced Technical Skills",
+    "cls": "baik"
   },
   {
     "nama": "BUDI IKHWAN",
