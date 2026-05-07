@@ -1,1 +1,544 @@
-[]
+[
+  {
+    "nama": "AINUN NURIL LAILY, S.Kom.",
+    "skpd": "Dinas",
+    "gap": 0.09,
+    "teknis": 83,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Manajemen Teknologi Informasi (60 JP) - 2024",
+      "Diklat Manajemen Teknologi Informasi (32 JP) - 2025"
+    ],
+    "rekMan": "Workshop Komunikasi Efektif",
+    "rekTek": "Advanced Technical Skills"
+  },
+  {
+    "nama": "AINUR ROHMAH FADLILAH, A.Md.",
+    "skpd": "Dinas",
+    "gap": 0.35,
+    "teknis": 60,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Teknis Manajemen Kesekretariatan (20 JP) - 2024"
+    ],
+    "rekMan": "Team Building, Manajemen Waktu",
+    "rekTek": "Pelatihan Teknis SOP"
+  },
+  {
+    "nama": "ALVIN CHANDRA PRATAMA, A.Md.",
+    "skpd": "Dinas",
+    "gap": 0.5,
+    "teknis": 63,
+    "cls": "baik",
+    "diklat": [],
+    "rekMan": "Job Shadowing",
+    "rekTek": "Quality Control"
+  },
+  {
+    "nama": "AMAT ZUHRI",
+    "skpd": "Dinas",
+    "gap": 0,
+    "teknis": 83.33,
+    "cls": "belum",
+    "diklat": [
+      "Diklat Nasional Kecerdasan Artificial (32 JP) - 2025"
+    ],
+    "rekMan": "Orientasi ASN baru",
+    "rekTek": "Project Management"
+  },
+  {
+    "nama": "AMIRA AFRADIANTY, A.Md.Kb.N.",
+    "skpd": "Dinas",
+    "gap": 0.5,
+    "teknis": 83,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Teknis Manajemen Kesekretariatan (20 JP) - 2025"
+    ],
+    "rekMan": "Team Building",
+    "rekTek": "Sertifikasi"
+  },
+  {
+    "nama": "ANDY MARTONO, S.T.",
+    "skpd": "Dinas",
+    "gap": 0.26,
+    "teknis": 73,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Manajemen Teknologi Informasi (60 JP) - 2024",
+      "Diklat Pengadaan Barang Jasa (40 JP) - 2024",
+      "Diklat SPBE (40 JP) - 2025"
+    ],
+    "rekMan": "Literasi Digital",
+    "rekTek": "Advanced Technical Skills"
+  },
+  {
+    "nama": "Ir. ANISSA DIAN PRATIWI, S.T.",
+    "skpd": "UPT PJJ Surabaya",
+    "gap": 0.35,
+    "teknis": 75,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Teknis Jalan Jembatan (23 JP) - 2022",
+      "Diklat PBJ (30 JP) - 2023",
+      "Diklat Hukum Kontrak (24 JP) - 2023",
+      "Pelatihan Teknis PPK TIPE C - 2023",
+      "Diklat PBJ (21 JP) - 2024",
+      "Diklat Pengelolaan Keuangan (15 JP) - 2024",
+      "Diklat Teknis Jalan Jembatan (22 JP) - 2024",
+      "Diklat PBJ (24 JP) - 2024",
+      "Penyusunan Dokumen Perencanaan (24 JP) - 2024",
+      "Diklat SPBE (30 JP) - 2025"
+    ],
+    "rekMan": "Job Shadowing",
+    "rekTek": "Leadership Dasar"
+  },
+  {
+    "nama": "BUDI IKHWAN",
+    "skpd": "Dinas",
+    "gap": 0,
+    "teknis": 30,
+    "cls": "belum",
+    "diklat": [],
+    "rekMan": "Latsar ASN",
+    "rekTek": "Fundamental Training"
+  },
+  {
+    "nama": "CHOIRUL ANAM, S.E.",
+    "skpd": "Dinas",
+    "gap": 0.26,
+    "teknis": 47,
+    "cls": "baik",
+    "diklat": [
+      "Diklat PBJ (22 JP) - 2024",
+      "Diklat Nasional AI (32 JP) - 2025"
+    ],
+    "rekMan": "Team Building",
+    "rekTek": "Fundamental Training"
+  },
+  {
+    "nama": "DARMA PRIYO PIGUNO, S.T",
+    "skpd": "Dinas",
+    "gap": -0.15,
+    "teknis": 50,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Penatausahaan BMD (22 JP) - 2024",
+      "Diklat Manajemen Inovasi (32 JP) - 2025"
+    ],
+    "rekMan": "Workshop Komunikasi",
+    "rekTek": "Basic Technical"
+  },
+  {
+    "nama": "DEE DEE FLORENTINE AZIZZAH, A.Md.A.Pj.",
+    "skpd": "Dinas",
+    "gap": 0,
+    "teknis": 40,
+    "cls": "belum",
+    "diklat": [
+      "Pelatihan Manajemen Kepegawaian (26 JP) - 2023",
+      "Diklat Nasional AI (32 JP) - 2025"
+    ],
+    "rekMan": "Orientasi Dasar",
+    "rekTek": "Fundamental Training"
+  },
+  {
+    "nama": "DIDIK SUNARYADI",
+    "skpd": "Dinas",
+    "gap": 0.09,
+    "teknis": 45,
+    "cls": "cukup",
+    "diklat": [],
+    "rekMan": "Workshop Komunikasi",
+    "rekTek": "Coaching"
+  },
+  {
+    "nama": "DOMINIKUS ANDRE DEWANTO",
+    "skpd": "Dinas",
+    "gap": 0,
+    "teknis": 40,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Teknis Manajemen Kesekretariatan (20 JP) - 2024"
+    ],
+    "rekMan": "Coaching intensif",
+    "rekTek": "Disiplin Kerja"
+  },
+  {
+    "nama": "Ir. FAJAR ILMAN TAMA, S.T.",
+    "skpd": "Dinas",
+    "gap": 0.47,
+    "teknis": 68,
+    "cls": "baik",
+    "diklat": [
+      "Diklat PBJ (30 JP) - 2019",
+      "Diklat Jalan Jembatan (21 JP) - 2020",
+      "Diklat Jalan Jembatan (21 JP) - 2021",
+      "Diklat Jalan Jembatan (21 JP) - 2022",
+      "Diklat Jalan Jembatan (68 JP) - 2022",
+      "Diklat Jalan Jembatan (26 JP) - 2023",
+      "Diklat PBJ (43 JP) - 2023",
+      "Diklat Jalan Jembatan (30 JP) - 2023",
+      "Diklat PBJ (21 JP) - 2024",
+      "Diklat Manajemen Talenta (21 JP) - 2024",
+      "Pembangunan Gedung Negara (26 JP) - 2024",
+      "Diklat Jalan Jembatan (21 JP) - 2024",
+      "Diklat PBJ (21 JP) - 2024",
+      "Pengelolaan Sampah & B3 (30 JP) - 2024",
+      "Diklat Manajemen Kinerja (28 JP) - 2025",
+      "Bimtek PPRG (20 JP) - 2026"
+    ],
+    "rekMan": "Team Building",
+    "rekTek": "Quality Control"
+  },
+  {
+    "nama": "FANNY PUSPITA RINI, S.A.",
+    "skpd": "Dinas",
+    "gap": 0.35,
+    "teknis": 73,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Kesekretariatan (20 JP) - 2024",
+      "Diklat Penatausahaan BMD (22 JP) - 2024",
+      "Diklat PBJ (74 JP) - 2024",
+      "Diklat Info Publik (50 JP) - 2025"
+    ],
+    "rekMan": "Team Building",
+    "rekTek": "Advanced Technical"
+  },
+  {
+    "nama": "FIRDAUSYIAH CANDRA PANGESTI, A.Md.Ak.",
+    "skpd": "Dinas",
+    "gap": 0.47,
+    "teknis": 63,
+    "cls": "baik",
+    "diklat": [
+      "Rakor Keuangan SIPD RI (20 JP) - 2024"
+    ],
+    "rekMan": "Literasi Digital",
+    "rekTek": "Teknis SOP"
+  },
+  {
+    "nama": "HENDRO YUDISONO",
+    "skpd": "Dinas",
+    "gap": -0.29,
+    "teknis": 63,
+    "cls": "standar",
+    "diklat": [
+      "Diklat PBJ (22 JP) - 2024",
+      "Bimtek Kesehatan Mental (23 JP) - 2024",
+      "Diklat Nasional AI (32 JP) - 2025"
+    ],
+    "rekMan": "Konseling Kinerja",
+    "rekTek": "Workshop Praktis"
+  },
+  {
+    "nama": "HERA ENY AMBARWATI, S.Ak.",
+    "skpd": "Dinas",
+    "gap": 0.24,
+    "teknis": 73,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat PBJ (22 JP) - 2024"
+    ],
+    "rekMan": "Workshop Komunikasi",
+    "rekTek": "Sertifikasi"
+  },
+  {
+    "nama": "HESKA SEKAR PRAWITA, A.Md.",
+    "skpd": "Dinas",
+    "gap": 0.56,
+    "teknis": 53,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Manajemen Kepegawaian (26 JP) - 2023",
+      "Diklat Manajemen Kesekretariatan (20 JP) - 2024"
+    ],
+    "rekMan": "Job Shadowing",
+    "rekTek": "Fundamental Training"
+  },
+  {
+    "nama": "HETTY SULIS TYORINI, S.H.",
+    "skpd": "Dinas",
+    "gap": 0.15,
+    "teknis": 67,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Manajemen Kesekretariatan (20 JP) - 2024",
+      "Bimtek Kesehatan Mental (23 JP) - 2025"
+    ],
+    "rekMan": "Workshop Komunikasi",
+    "rekTek": "OJT"
+  },
+  {
+    "nama": "IMAM PRATIKTO",
+    "skpd": "Dinas",
+    "gap": 0.12,
+    "teknis": 70,
+    "cls": "cukup",
+    "diklat": [
+      "Webinar SDGs Jatim (34 JP) - 2024"
+    ],
+    "rekMan": "Workshop Komunikasi",
+    "rekTek": "Project Management"
+  },
+  {
+    "nama": "JATU MAWAR WIDHIARTI PUTRI, S.A.",
+    "skpd": "Dinas",
+    "gap": 0.29,
+    "teknis": 63,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Kesekretariatan (20 JP) - 2024",
+      "Diklat Pengelola Keuangan (33 JP) - 2025",
+      "Pelatihan Analisis Data (64 JP) - 2026"
+    ],
+    "rekMan": "Team Building",
+    "rekTek": "Time Management"
+  },
+  {
+    "nama": "KUSMIATININGSIH, S.H., M.H.",
+    "skpd": "Dinas",
+    "gap": -0.26,
+    "teknis": 43,
+    "cls": "standar",
+    "diklat": [
+      "Diklat Kesekretariatan (20 JP) - 2024",
+      "Bimtek Kesehatan Mental (23 JP) - 2025"
+    ],
+    "rekMan": "Konseling Kinerja",
+    "rekTek": "Fundamental Training"
+  },
+  {
+    "nama": "LILIK ISMIATI, S.H.",
+    "skpd": "Dinas",
+    "gap": 0,
+    "teknis": 23,
+    "cls": "belum",
+    "diklat": [],
+    "rekMan": "Diklat Dasar Manajerial",
+    "rekTek": "Remedial"
+  },
+  {
+    "nama": "MOCH. CHUSNUL YAQIN",
+    "skpd": "Dinas",
+    "gap": 0.03,
+    "teknis": 45,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Manajemen Kinerja (26 JP) - 2023"
+    ],
+    "rekMan": "Workshop Komunikasi",
+    "rekTek": "Fundamental Training"
+  },
+  {
+    "nama": "NGESTI RAHAYU, S.E., M.M.",
+    "skpd": "Dinas",
+    "gap": 0,
+    "teknis": 40,
+    "cls": "belum",
+    "diklat": [
+      "Bimtek Pegawai Non Teknis (14 JP) - 2023"
+    ],
+    "rekMan": "Latsar ASN",
+    "rekTek": "Fundamental Training"
+  },
+  {
+    "nama": "Ir. NUR AINI FARIDA, S.T., M.T.",
+    "skpd": "Dinas",
+    "gap": 0.47,
+    "teknis": 73,
+    "cls": "baik",
+    "diklat": [
+      "Manajemen Pengendalian Mutu (68 JP) - 2022",
+      "Manajemen Proyek (25 JP) - 2025",
+      "Pelatihan Publikasi Ilmiah (40 JP) - 2026"
+    ],
+    "rekMan": "Team Building",
+    "rekTek": "Problem Solving"
+  },
+  {
+    "nama": "POERBO SEPUTRO DONY ERIKHA, S.T.",
+    "skpd": "Dinas",
+    "gap": 0,
+    "teknis": 57,
+    "cls": "belum",
+    "diklat": [
+      "Diklat Manajemen Kesekretariatan (20 JP) - 2024"
+    ],
+    "rekMan": "Orientasi Dasar",
+    "rekTek": "Fundamental Training"
+  },
+  {
+    "nama": "PUJI SANTOSO",
+    "skpd": "Dinas",
+    "gap": -0.03,
+    "teknis": 33,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Manajemen Kesekretariatan (20 JP) - 2024"
+    ],
+    "rekMan": "Workshop Komunikasi",
+    "rekTek": "Remedial"
+  },
+  {
+    "nama": "RINA PUSPITASARI, S.E.",
+    "skpd": "Dinas",
+    "gap": 0,
+    "teknis": 68,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Manajemen Kesekretariatan (20 JP) - 2024"
+    ],
+    "rekMan": "Workshop Komunikasi",
+    "rekTek": "OJT"
+  },
+  {
+    "nama": "ROBBY RAHADIANTO, S.M.",
+    "skpd": "Dinas",
+    "gap": 0.41,
+    "teknis": 73,
+    "cls": "baik",
+    "diklat": [
+      "Bimtek Admin Kontrak (23 JP) - 2022",
+      "Manajemen Kepegawaian (26 JP) - 2023",
+      "Diklat Kesekretariatan (20 JP) - 2024",
+      "Penatausahaan BMD (22 JP) - 2024",
+      "Diklat Info Publik (50 JP) - 2025"
+    ],
+    "rekMan": "Literasi Digital",
+    "rekTek": "Advanced Technical"
+  },
+  {
+    "nama": "SAIFUROCHMAN, S.T.",
+    "skpd": "Dinas",
+    "gap": 0.24,
+    "teknis": 58,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Pelayanan Publik (50 JP) - 2025"
+    ],
+    "rekMan": "Pelatihan Sosiokultural",
+    "rekTek": "Coaching Intensif"
+  },
+  {
+    "nama": "SHAREENA YASIN, A.Md.Ak.",
+    "skpd": "Dinas",
+    "gap": 0.32,
+    "teknis": 60,
+    "cls": "baik",
+    "diklat": [
+      "Diklat PBJ (22 JP) - 2024"
+    ],
+    "rekMan": "Manajemen Waktu",
+    "rekTek": "Teknis SOP"
+  },
+  {
+    "nama": "SILVINO RIBEIRO, S.E.",
+    "skpd": "Dinas",
+    "gap": -0.79,
+    "teknis": 57,
+    "cls": "standar",
+    "diklat": [],
+    "rekMan": "Konseling Kinerja",
+    "rekTek": "Remedial"
+  },
+  {
+    "nama": "SOLIKHIN",
+    "skpd": "Dinas",
+    "gap": 0,
+    "teknis": 0,
+    "cls": "belum",
+    "diklat": [],
+    "rekMan": "Orientasi Pegawai",
+    "rekTek": "Data N/A"
+  },
+  {
+    "nama": "SUNARYO",
+    "skpd": "Dinas",
+    "gap": -0.35,
+    "teknis": 20,
+    "cls": "standar",
+    "diklat": [
+      "Diklat Teknis Jalan dan Jembatan (21 JP) - 2024",
+      "Diklat Nasional Kecerdasan Artificial (32 JP) - 2025"
+    ],
+    "rekMan": "Mentoring Harian",
+    "rekTek": "Fundamental Training"
+  },
+  {
+    "nama": "SUYOTO KURNIAWAN",
+    "skpd": "Dinas",
+    "gap": 0.06,
+    "teknis": 53,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Penatausahaan BMD (22 JP) - 2024",
+      "Diklat Nasional AI (32 JP) - 2025"
+    ],
+    "rekMan": "Workshop Komunikasi",
+    "rekTek": "Remedial"
+  },
+  {
+    "nama": "TAUFIK HIDAYAT",
+    "skpd": "Dinas",
+    "gap": -0.21,
+    "teknis": 30,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Nasional Kecerdasan Artificial (32 JP) - 2025"
+    ],
+    "rekMan": "Workshop Komunikasi",
+    "rekTek": "Disiplin"
+  },
+  {
+    "nama": "WASIS PRIYO BASUKI",
+    "skpd": "Dinas",
+    "gap": -0.06,
+    "teknis": 35,
+    "cls": "cukup",
+    "diklat": [
+      "Diklat Manajemen Kinerja (6 JP) - 2024",
+      "Manajemen Inovasi (32 JP) - 2025"
+    ],
+    "rekMan": "Coaching spesifik",
+    "rekTek": "Fundamental Training"
+  },
+  {
+    "nama": "YOHANES ANNANTO HERBAWONO, A.Md. Akun.",
+    "skpd": "Dinas",
+    "gap": 0.59,
+    "teknis": 57,
+    "cls": "baik",
+    "diklat": [
+      "Diklat PBJ (72 JP) - 2024",
+      "Diklat PBJ (22 JP) - 2024"
+    ],
+    "rekMan": "Job Shadowing",
+    "rekTek": "Disiplin Kerja"
+  },
+  {
+    "nama": "ZAFIRA ALMADINA, A.Md.Kb.N.",
+    "skpd": "Dinas",
+    "gap": 0.32,
+    "teknis": 67,
+    "cls": "baik",
+    "diklat": [
+      "Diklat Manajemen Kesekretariatan (20 JP) - 2024"
+    ],
+    "rekMan": "Manajemen Waktu",
+    "rekTek": "Teknis SOP"
+  },
+  {
+    "nama": "JENNYS ANANDITA",
+    "skpd": "Dinas",
+    "diklat": [
+      "www"
+    ],
+    "gap": 0.09,
+    "teknis": "53",
+    "rekMan": "qqq",
+    "rekTek": "eee",
+    "cls": "baik"
+  }
+]
