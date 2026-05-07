@@ -2,15 +2,15 @@
   {
     "nama": "AINUN NURIL LAILY, S.Kom.",
     "skpd": "Dinas",
-    "gap": 0.09,
-    "teknis": 83,
-    "cls": "cukup",
     "diklat": [
       "Diklat Manajemen Teknologi Informasi (60 JP) - 2024",
       "Diklat Manajemen Teknologi Informasi (32 JP) - 2025"
     ],
+    "gap": 0.09,
+    "teknis": "83",
     "rekMan": "Workshop Komunikasi Efektif",
-    "rekTek": "Advanced Technical Skills"
+    "rekTek": "Advanced Technical Skills",
+    "cls": "cukup"
   },
   {
     "nama": "AINUR ROHMAH FADLILAH, A.Md.",
