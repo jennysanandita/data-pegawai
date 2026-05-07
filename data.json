@@ -34,13 +34,17 @@
   },
   {
     "nama": "ALVIN CHANDRA PRATAMA, A.Md.",
+    "nip": "19960410 202204 1 001",
+    "jenisJabatan": "Jabatan Pelaksana",
+    "namaJabatan": "Pengolah Data dan Informasi",
+    "unitKerja": "SEKRETARIAT",
     "skpd": "Dinas",
-    "gap": 0.5,
-    "teknis": 63,
-    "cls": "baik",
     "diklat": [],
+    "gap": 0.5,
+    "teknis": "63",
     "rekMan": "Job Shadowing",
-    "rekTek": "Quality Control"
+    "rekTek": "Quality Control",
+    "cls": "baik"
   },
   {
     "nama": "AMAT ZUHRI",
