@@ -98,13 +98,17 @@
   },
   {
     "nama": "BUDI IKHWAN",
+    "nip": "19690812 200701 1 025",
+    "jenisJabatan": "Jabatan Pelaksana",
+    "namaJabatan": "Pengelola Keprotokolan",
+    "unitKerja": "SUBBAGIAN UMUM DAN KEPEGAWAIAN",
     "skpd": "Dinas",
-    "gap": 0,
-    "teknis": 30,
-    "cls": "belum",
     "diklat": [],
+    "gap": 0,
+    "teknis": "30",
     "rekMan": "Latsar ASN",
-    "rekTek": "Fundamental Training"
+    "rekTek": "Fundamental Training",
+    "cls": "belum"
   },
   {
     "nama": "CHOIRUL ANAM, S.E.",
