@@ -18,15 +18,19 @@
   },
   {
     "nama": "AINUR ROHMAH FADLILAH, A.Md.",
+    "nip": "19971016 202204 2 001",
+    "jenisJabatan": "Jabatan Pelaksana",
+    "namaJabatan": "Pengolah Data dan Informasi",
+    "unitKerja": "SEKRETARIAT",
     "skpd": "Dinas",
-    "gap": 0.35,
-    "teknis": 60,
-    "cls": "baik",
     "diklat": [
       "Diklat Teknis Manajemen Kesekretariatan (20 JP) - 2024"
     ],
+    "gap": 0.35,
+    "teknis": "60",
     "rekMan": "Team Building, Manajemen Waktu",
-    "rekTek": "Pelatihan Teknis SOP"
+    "rekTek": "Pelatihan Teknis SOP",
+    "cls": "baik"
   },
   {
     "nama": "ALVIN CHANDRA PRATAMA, A.Md.",
