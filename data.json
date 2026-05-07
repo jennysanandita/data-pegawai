@@ -1,11 +1,12 @@
 [
   {
     "nama": "AINUN NURIL LAILY, S.Kom.",
+    "nip": "19950515 201903 2 022",
+    "jenisJabatan": "",
+    "namaJabatan": "",
     "skpd": "Dinas",
-    "diklat": [
-      "Diklat Manajemen Teknologi Informasi (60 JP) - 2024",
-      "Diklat Manajemen Teknologi Informasi (32 JP) - 2025"
-    ],
+    "unitKerja": "",
+    "diklat": [],
     "gap": 0.09,
     "teknis": "83",
     "rekMan": "Workshop Komunikasi Efektif",
