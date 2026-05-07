@@ -112,16 +112,20 @@
   },
   {
     "nama": "CHOIRUL ANAM, S.E.",
+    "nip": "19790606 201001 1 008",
+    "jenisJabatan": "Jabatan Pelaksana",
+    "namaJabatan": "Pengolah Data dan Informasi",
+    "unitKerja": "SEKRETARIAT",
     "skpd": "Dinas",
-    "gap": 0.26,
-    "teknis": 47,
-    "cls": "baik",
     "diklat": [
       "Diklat PBJ (22 JP) - 2024",
       "Diklat Nasional AI (32 JP) - 2025"
     ],
+    "gap": 0.26,
+    "teknis": "47",
     "rekMan": "Team Building",
-    "rekTek": "Fundamental Training"
+    "rekTek": "Fundamental Training",
+    "cls": "baik"
   },
   {
     "nama": "DARMA PRIYO PIGUNO, S.T",
