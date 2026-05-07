@@ -48,15 +48,19 @@
   },
   {
     "nama": "AMAT ZUHRI",
+    "nip": "19680722 200701 1 006",
+    "jenisJabatan": "Jabatan Pelaksana",
+    "namaJabatan": "Operator Layanan Operasional",
+    "unitKerja": "SUBBAGIAN UMUM DAN KEPEGAWAIAN",
     "skpd": "Dinas",
-    "gap": 0,
-    "teknis": 83.33,
-    "cls": "belum",
     "diklat": [
       "Diklat Nasional Kecerdasan Artificial (32 JP) - 2025"
     ],
+    "gap": 0,
+    "teknis": "83.33",
     "rekMan": "Orientasi ASN baru",
-    "rekTek": "Project Management"
+    "rekTek": "Project Management",
+    "cls": "belum"
   },
   {
     "nama": "AMIRA AFRADIANTY, A.Md.Kb.N.",
