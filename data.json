@@ -17,32 +17,6 @@
     "cls": "cukup"
   },
   {
-    "nama": "DARMA PRIYO PIGUNO, S.T",
-    "skpd": "Dinas",
-    "gap": -0.15,
-    "teknis": 50,
-    "cls": "cukup",
-    "diklat": [
-      "Diklat Penatausahaan BMD (22 JP) - 2024",
-      "Diklat Manajemen Inovasi (32 JP) - 2025"
-    ],
-    "rekMan": "Workshop Komunikasi",
-    "rekTek": "Basic Technical"
-  },
-  {
-    "nama": "DEE DEE FLORENTINE AZIZZAH, A.Md.A.Pj.",
-    "skpd": "Dinas",
-    "gap": 0,
-    "teknis": 40,
-    "cls": "belum",
-    "diklat": [
-      "Pelatihan Manajemen Kepegawaian (26 JP) - 2023",
-      "Diklat Nasional AI (32 JP) - 2025"
-    ],
-    "rekMan": "Orientasi Dasar",
-    "rekTek": "Fundamental Training"
-  },
-  {
     "nama": "DIDIK SUNARYADI",
     "skpd": "Dinas",
     "gap": 0.09,
