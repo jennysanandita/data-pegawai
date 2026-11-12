@@ -17,32 +17,6 @@
     "cls": "cukup"
   },
   {
-    "nama": "SUNARYO",
-    "skpd": "Dinas",
-    "gap": -0.35,
-    "teknis": 20,
-    "cls": "standar",
-    "diklat": [
-      "Diklat Teknis Jalan dan Jembatan (21 JP) - 2024",
-      "Diklat Nasional Kecerdasan Artificial (32 JP) - 2025"
-    ],
-    "rekMan": "Mentoring Harian",
-    "rekTek": "Fundamental Training"
-  },
-  {
-    "nama": "SUYOTO KURNIAWAN",
-    "skpd": "Dinas",
-    "gap": 0.06,
-    "teknis": 53,
-    "cls": "cukup",
-    "diklat": [
-      "Diklat Penatausahaan BMD (22 JP) - 2024",
-      "Diklat Nasional AI (32 JP) - 2025"
-    ],
-    "rekMan": "Workshop Komunikasi",
-    "rekTek": "Remedial"
-  },
-  {
     "nama": "TAUFIK HIDAYAT",
     "skpd": "Dinas",
     "gap": -0.21,
