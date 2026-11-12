@@ -18,15 +18,19 @@
   },
   {
     "nama": "YOHANES ANNANTO HERBAWONO, A.Md. Akun.",
+    "nip": "",
+    "jenisJabatan": "",
+    "namaJabatan": "",
+    "unitKerja": "",
     "skpd": "Dinas",
-    "gap": 0.59,
-    "teknis": 57,
-    "cls": "baik",
     "diklat": [
       "Diklat PBJ (72 JP) - 2024",
       "Diklat PBJ (22 JP) - 2024"
     ],
+    "gap": 0.59,
+    "teknis": "57",
     "rekMan": "Job Shadowing",
-    "rekTek": "Disiplin Kerja"
+    "rekTek": "Disiplin Kerja",
+    "cls": "baik"
   }
 ]
