@@ -17,37 +17,6 @@
     "cls": "cukup"
   },
   {
-    "nama": "BUDI IKHWAN",
-    "nip": "19690812 200701 1 025",
-    "jenisJabatan": "Jabatan Pelaksana",
-    "namaJabatan": "Pengelola Keprotokolan",
-    "unitKerja": "SUBBAGIAN UMUM DAN KEPEGAWAIAN",
-    "skpd": "Dinas",
-    "diklat": [],
-    "gap": 0,
-    "teknis": "30",
-    "rekMan": "Latsar ASN",
-    "rekTek": "Fundamental Training",
-    "cls": "belum"
-  },
-  {
-    "nama": "CHOIRUL ANAM, S.E.",
-    "nip": "19790606 201001 1 008",
-    "jenisJabatan": "Jabatan Pelaksana",
-    "namaJabatan": "Pengolah Data dan Informasi",
-    "unitKerja": "SEKRETARIAT",
-    "skpd": "Dinas",
-    "diklat": [
-      "Diklat PBJ (22 JP) - 2024",
-      "Diklat Nasional AI (32 JP) - 2025"
-    ],
-    "gap": 0.26,
-    "teknis": "47",
-    "rekMan": "Team Building",
-    "rekTek": "Fundamental Training",
-    "cls": "baik"
-  },
-  {
     "nama": "DARMA PRIYO PIGUNO, S.T",
     "skpd": "Dinas",
     "gap": -0.15,
